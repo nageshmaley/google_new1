@@ -1,0 +1,69 @@
+[33mcommit c9b898d668f37f58eaf5b0ff1de1d0e18169de5c[m
+Author: nagesh <nagesh8320@gmail.com>
+Date:   Wed Jun 22 19:07:26 2016 +0530
+
+    to move the file logic.java to logic1.java
+
+[1mdiff --git a/logic1.java b/logic1.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..134ae23[m
+[1m--- /dev/null[m
+[1m+++ b/logic1.java[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mhai pavan[m
+[32m+[m[32mhow are you[m
+[32m+[m[32mwt are you doing[m
+
+[33mcommit d1f7d1e325158b0c890edc9ec705449f1aebf563[m
+Merge: 513ee9d 678f2c3
+Author: nagesh <nagesh8320@gmail.com>
+Date:   Wed Jun 22 09:56:28 2016 +0530
+
+    Merge branch 'master' of https://github.com/nageshmaley/google_new1
+
+[33mcommit 678f2c315ef676facb7401dba57c13208ed76117[m
+Author: nageshmaley <nagesh8320@gmail.com>
+Date:   Wed Jun 22 09:53:42 2016 +0530
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..d215a7e[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,2 @@[m
+[32m+[m[32m# google_new1[m
+[32m+[m[32mthis is my second new repository[m
+
+[33mcommit 513ee9d5c784ad9224ae25c1a034d02382ba9d07[m
+Author: nagesh <nagesh8320@gmail.com>
+Date:   Wed Jun 22 09:19:56 2016 +0530
+
+    this is my second file of txt file
+
+[1mdiff --git a/login.txt b/login.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..b942fab[m
+[1m--- /dev/null[m
+[1m+++ b/login.txt[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mhai nagesh[m
+[32m+[m[32mhow are you[m[41m [m
+[32m+[m[32mhow to prepare[m
+
+[33mcommit e1d0a156da4d6ec8357f810a3017b0b78b942d26[m
+Author: nagesh <nagesh8320@gmail.com>
+Date:   Wed Jun 22 09:15:46 2016 +0530
+
+    to create a new logic file
+
+[1mdiff --git a/logic.java b/logic.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..134ae23[m
+[1m--- /dev/null[m
+[1m+++ b/logic.java[m
+[36m@@ -0,0 +1,3 @@[m
+[32m+[m[32mhai pavan[m
+[32m+[m[32mhow are you[m
+[32m+[m[32mwt are you doing[m
